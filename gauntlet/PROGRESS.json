@@ -1,0 +1,572 @@
+﻿[
+    {
+        "q":  "Q1",
+        "question":  "tell me about a time you used genai to improve personal or team produc...",
+        "lp":  "Invent and Simplify",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q2",
+        "question":  "tell me about a time you used genai to automate or streamline a workfl...",
+        "lp":  "Invent and Simplify",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q3",
+        "question":  "tell me about a time you used genai to solve a business problem and wh...",
+        "lp":  "Deliver Results; Invent and Simplify",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q4",
+        "question":  "tell me about a time you failed\" ps: this applies more to senior / sta...",
+        "lp":  "Earn Trust",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q5",
+        "question":  "tell me about a time you directly interacted with a stakeholder for yo...",
+        "lp":  "Customer Obsession",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q6",
+        "question":  "a time when you needed to influence a peer who had a differing opinion...",
+        "lp":  "Disagree and Commit",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q7",
+        "question":  "tell me about a time you failed",
+        "lp":  "Earn Trust",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q8",
+        "question":  "tell me about time where you completed a project on your own",
+        "lp":  "Think Big",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q9",
+        "question":  "tell me about a time you were proud of your work",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q10",
+        "question":  "describe a time when you needed to influence a peer who had a differin...",
+        "lp":  "Disagree and Commit",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q11",
+        "question":  "tell me about a time you dove deep and optimized something",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q12",
+        "question":  "tell me about how will you communicate if you think you will miss dead...",
+        "lp":  "Bias for Action; Deliver Results",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q13",
+        "question":  "tell me about a time you compromised quality to deliver quickly",
+        "lp":  "Bias for Action; Deliver Results; Insist on the Highest Standards",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q14",
+        "question":  "give me an example where you took a risk in a project and succeeded",
+        "lp":  "Bias for Action",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q15",
+        "question":  "a time when you help your friend or co-worker)",
+        "lp":  "Hire and Develop the Best",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q16",
+        "question":  "when have you gone beyond surface-level analysis?",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q17",
+        "question":  "tell me about a time when you had to implement a direction you didn\u0027t ...",
+        "lp":  "Disagree and Commit; Think Big",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q18",
+        "question":  "tell me about a time when you got * negative feedback from a higher up",
+        "lp":  "Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q19",
+        "question":  "tell me about a time when you had to make a difficult decision to meet...",
+        "lp":  "Bias for Action; Deliver Results; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q20",
+        "question":  "a time when you needed to deep dive to solve a problem 2",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q21",
+        "question":  "tell me about a time when you went out of your comfort zone * please t...",
+        "lp":  "Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q22",
+        "question":  "tell me about a time when you had a disagreement with your manager # γ...",
+        "lp":  "Disagree and Commit; Have Backbone",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q23",
+        "question":  "tell me about a time where you took work outside of your responsibilit...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q24",
+        "question":  "tell me about a time you took on something outside your responsibiliti...",
+        "lp":  "Ownership",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q25",
+        "question":  "tell me about a time where you gave someone wrong information",
+        "lp":  "Earn Trust",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q26",
+        "question":  "a time when you had to finish a project quickly to meet a deadline\", h...",
+        "lp":  "Bias for Action; Deliver Results",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q27",
+        "question":  "tell me about a time when you exceeded expectations",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q28",
+        "question":  "a time when you had to understand a complex problem with detail, who d...",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q29",
+        "question":  "a time when you had a blocker in your work and how did you resolve tha...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q30",
+        "question":  "a time where you took work outside of your responsibility",
+        "lp":  "Ownership",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q31",
+        "question":  "tell me about a time when you had to finish a project quickly to meet ...",
+        "lp":  "Bias for Action; Deliver Results",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q32",
+        "question":  "tell me about a time you had to earn the trust of a skeptical colleagu...",
+        "lp":  "Earn Trust",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q33",
+        "question":  "tell me about a situation where you had to dig deep, what was the outc...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q34",
+        "question":  "tell me about a time where you introduced a new process and why was it...",
+        "lp":  "Invent and Simplify",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q35",
+        "question":  "a time when you worked on something outside your comfort zone",
+        "lp":  "Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q36",
+        "question":  "a time when you had to compromise quality over prescribed timeline",
+        "lp":  "Insist on the Highest Standards",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q37",
+        "question":  "tell me about a time is to think about a few of things you are most pr...",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q38",
+        "question":  "tell me about a project where you chose the ui/middle layer/database/e...",
+        "lp":  "Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q39",
+        "question":  "tell me about a time when you had a conflict with a team member, tell ...",
+        "lp":  "Disagree and Commit; Learn and Be Curious",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q40",
+        "question":  "tell me about a time you made an unorthodox decision",
+        "lp":  "Bias for Action; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q41",
+        "question":  "tell me about a time you took on a task outside your job description",
+        "lp":  "Ownership",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q42",
+        "question":  "tell me about a time where you received critical feedback, how did you...",
+        "lp":  "Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q43",
+        "question":  "tell me about a time when you",
+        "lp":  "Ownership",
+        "status":  "FAIL"
+    },
+    {
+        "q":  "Q44",
+        "question":  "tell me about a project where you had to learn a new skill and eventua...",
+        "lp":  "Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q45",
+        "question":  "a time when you did something which was very difficult and how you dea...",
+        "lp":  "Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q46",
+        "question":  "a time when your project deadline was very near, but you still took ti...",
+        "lp":  "Bias for Action; Deliver Results; Insist on the Highest Standards; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q47",
+        "question":  "tell me about a time you had to make a design trade-off that prioritiz...",
+        "lp":  "Customer Obsession; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q48",
+        "question":  "tell me about a time when you had a blocker in your work and how did y...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q49",
+        "question":  "tell me about a time you went above and beyond for a customer",
+        "lp":  "Customer Obsession",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q50",
+        "question":  "tell me about a time when you didnγçöt know what to do next or how to ...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q51",
+        "question":  "have you ever sacrificed a short-term goal to achieve a better long-te...",
+        "lp":  "Ownership; Think Big",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q52",
+        "question":  "tell me about a challenge you facedγç¥ γçó deep dive into the situatio...",
+        "lp":  "Dive Deep; Disagree and Commit; Have Backbone",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q53",
+        "question":  "a time when you didnγçöt know what to do next or how to solve a challe...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q54",
+        "question":  "tell me about a time you saw a problem and implemented a solution 3",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q55",
+        "question":  "tell me about a time you had to motivate a team after a demoralizing e...",
+        "lp":  "Hire and Develop the Best",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q56",
+        "question":  "a time where you gave someone wrong information",
+        "lp":  "Earn Trust",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q57",
+        "question":  "walk us through how you answered γç£something youγçöre particularly pr...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q58",
+        "question":  "a time when you had to make a difficult decision to meet a tight deadl...",
+        "lp":  "Bias for Action; Deliver Results; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q59",
+        "question":  "tell me about a time you took responsibility beyond your role",
+        "lp":  "Ownership",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q60",
+        "question":  "tell me about a time you encountered a technical bottleneck in a proto...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q61",
+        "question":  "a time when you had a conflict with a team-mate or someone\"!",
+        "lp":  "Disagree and Commit",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q62",
+        "question":  "a time when you got * negative feedback from a higher up",
+        "lp":  "Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q63",
+        "question":  "describe a time you used data to make a recommendation, which requires...",
+        "lp":  "Invent and Simplify; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q64",
+        "question":  "a time when you had a disagreement with your manager # γ¡é situation: ...",
+        "lp":  "Disagree and Commit; Have Backbone",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q65",
+        "question":  "a time when you exceeded expectations",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q66",
+        "question":  "describe a time you simplified a complex process",
+        "lp":  "Invent and Simplify",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q67",
+        "question":  "a time when you had to implement a direction you didn\u0027t agree with",
+        "lp":  "Disagree and Commit; Think Big",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q68",
+        "question":  "a time where you introduced a new process and why was it not already i...",
+        "lp":  "Invent and Simplify",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q69",
+        "question":  "tell me about a time when you had to understand a complex problem with...",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q70",
+        "question":  "tell me about a time you disagreed with a senior engineer",
+        "lp":  "Disagree and Commit; Have Backbone",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q71",
+        "question":  "a time when you went out of your comfort zone * please tell me about a...",
+        "lp":  "Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q72",
+        "question":  "tell me about a time you pushed for something",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q73",
+        "question":  "walk me through a feature you developed",
+        "lp":  "Hire and Develop the Best",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q74",
+        "question":  "describe a time you had to make a decision with incomplete information",
+        "lp":  "Bias for Action; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q75",
+        "question":  "tell me about a time you made a mistake in a data pipeline,\" \"tell me ...",
+        "lp":  "Earn Trust; Insist on the Highest Standards; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q76",
+        "question":  "a time when you had a conflict with a team member, tell me about a tim...",
+        "lp":  "Disagree and Commit; Learn and Be Curious",
+        "status":  "PARTIAL"
+    },
+    {
+        "q":  "Q77",
+        "question":  "tell me about a situation where you pushed back on a customer request",
+        "lp":  "Customer Obsession",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q78",
+        "question":  "tell me about a time you utilized customer feedback to drive improveme...",
+        "lp":  "Customer Obsession; Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q79",
+        "question":  "tell me about a project where you did something exceptional",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q80",
+        "question":  "a time where you had to balance the needs of the customer vs",
+        "lp":  "Customer Obsession",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q81",
+        "question":  "tell me about a time when your project deadline was very near, but you...",
+        "lp":  "Bias for Action; Deliver Results; Insist on the Highest Standards; Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q82",
+        "question":  "tell me about a time you delegated a critical task to a junior enginee...",
+        "lp":  "Hire and Develop the Best",
+        "status":  "GAP"
+    },
+    {
+        "q":  "Q83",
+        "question":  "tell me about a time you had to make a difficult decision",
+        "lp":  "Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q84",
+        "question":  "tell me about a time you did something that was not your task (like go...",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q85",
+        "question":  "describe a time when you needed to deep dive to solve a problem 2",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q86",
+        "question":  "a time where you interacted with a customer with negative feedback dir...",
+        "lp":  "Customer Obsession; Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q87",
+        "question":  "describe a time when you optimized the performance of an application",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q88",
+        "question":  "a time where you got negative feedback and it was your fault",
+        "lp":  "Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q89",
+        "question":  "tell me about a time where you interacted with a customer with negativ...",
+        "lp":  "Customer Obsession; Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q90",
+        "question":  "a time when you optimized the performance of an application",
+        "lp":  "Dive Deep",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q91",
+        "question":  "a time where you received critical feedback, how did you implement it?",
+        "lp":  "Earn Trust; Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q92",
+        "question":  "tell me about a time you used data to solve a problem they went really...",
+        "lp":  "Are Right, A Lot",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q93",
+        "question":  "tell me about a time when you worked on something outside your comfort...",
+        "lp":  "Learn and Be Curious",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q94",
+        "question":  "tell me about a project you recently worked on and what the",
+        "lp":  "Ownership",
+        "status":  "PASS"
+    },
+    {
+        "q":  "Q95",
+        "question":  "a time when you took a big risk and it failed **hire \u0026 develop the bes...",
+        "lp":  "Bias for Action; Earn Trust; Hire and Develop the Best",
+        "status":  "PASS"
+    }
+]
